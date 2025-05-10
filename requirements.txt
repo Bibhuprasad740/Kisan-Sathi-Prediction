@@ -1,6 +1,8 @@
-fastapi==0.109.2
-tensorflow==2.15.0
-numpy==1.26.4
-uvicorn==0.27.0
-pillow==10.2.0
-python-multipart==0.0.9
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+scikit-learn
+joblib
+tensorflow
